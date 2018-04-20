@@ -1,0 +1,3 @@
+rootProject.name = 'yelppt'
+
+include ':app'
