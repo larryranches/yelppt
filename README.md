@@ -25,4 +25,3 @@ export default env;
 ```
 
 4. ```react-native run-ios``` or ```react-native run-android```
-# yelppt
